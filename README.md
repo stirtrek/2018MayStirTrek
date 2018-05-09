@@ -8,7 +8,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 * [Boom! From Combat Engineer to Software Engineer](talks/Ardalis-BOOM-From-Combat-Engineer-to-Software-Engineer.pdf) by [Steve Smith](https://twitter.com/ardalis)
 * [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf) by [Jarred Olson](https://twitter.com/JarredOlson)
-* [Climbing the (Elastic) Beanstalk](talks/Kris-Hatcher-Climbing-the-Elastic-Beanstalk.pdf) by [Kris Hathcer](https://twitter.com/hatcherk)
+* [Climbing the (Elastic) Beanstalk](talks/Kris-Hatcher-Climbing-the-Elastic-Beanstalk.pdf) by [Kris Hatcher](https://twitter.com/hatcherk)
 * [Git Jungle Guided Tours](https://github.com/marcpeabody/git-jungle-guided-tours) by [Marc Peabody](https://twitter.com/MarcPeabody)
 
 ## Stir Trek 2018 Reviews
