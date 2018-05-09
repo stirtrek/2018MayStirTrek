@@ -6,8 +6,8 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 # Sessions by Title
 
-* [Boom! From Combat Engineer to Software Engineer](talks/Ardalis-BOOM-From-Combat-Engineer-to-Software-Engineer.pdf)
-* [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf)
+* [Boom! From Combat Engineer to Software Engineer](talks/Ardalis-BOOM-From-Combat-Engineer-to-Software-Engineer.pdf) by [Steve Smith](https://twitter.com/ardalis)
+* [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf) by [Jarred Olson](https://twitter.com/JarredOlson)
 
 ## Stir Trek 2018 Reviews
 
