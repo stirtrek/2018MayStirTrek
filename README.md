@@ -10,6 +10,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 * [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf) by [Jarred Olson](https://twitter.com/JarredOlson)
 * [Climbing the (Elastic) Beanstalk](talks/Kris-Hatcher-Climbing-the-Elastic-Beanstalk.pdf) by [Kris Hatcher](https://twitter.com/hatcherk)
 * [Git Jungle Guided Tours](https://github.com/marcpeabody/git-jungle-guided-tours) by [Marc Peabody](https://twitter.com/MarcPeabody)
+* [Image Recognition with Convolutional Neural Networks](https://github.com/timle8n1/stirtrek2018) by [Tim LeMaster](https://twitter.com/timle8n1)
 * [Secure Applications, by Design](https://speakerdeck.com/craigstuntz/secure-applications-by-design-3) by [Craig Stuntz](https://twitter.com/craigstuntz)
 
 ## Stir Trek 2018 Reviews
