@@ -7,6 +7,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 # Sessions by Title
 
 * [BFFs Angular & .NET Core](talks/WasimHanna-BFFs_Angular_NETCore.pptx.zip) by [Wasim Hanna](https://github.com/wfhanna1)
+* [Blockchain: Worth more than a Bitcoin?](talks/BrettKoenig-BlockchainWorthMoreThanABitcoin.pdf) by [Brett Koenig](https://brettkoenig.com)
 * [Boom! From Combat Engineer to Software Engineer](talks/Ardalis-BOOM-From-Combat-Engineer-to-Software-Engineer.pdf) by [Steve Smith](https://twitter.com/ardalis)
 * [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf) by [Jarred Olson](https://twitter.com/JarredOlson)
 * [Climbing the (Elastic) Beanstalk](talks/Kris-Hatcher-Climbing-the-Elastic-Beanstalk.pdf) by [Kris Hatcher](https://twitter.com/hatcherk)
