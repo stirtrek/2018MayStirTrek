@@ -10,6 +10,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 * [Blockchain: Worth more than a Bitcoin?](talks/BrettKoenig-BlockchainWorthMoreThanABitcoin.pdf) by [Brett Koenig](https://brettkoenig.com)
 * [Boom! From Combat Engineer to Software Engineer](talks/Ardalis-BOOM-From-Combat-Engineer-to-Software-Engineer.pdf) by [Steve Smith](https://twitter.com/ardalis)
 * [Build Your Own Voice Assistant](talks/Jarred-Olson-Build-Your-Own-Voice-Assistant.pdf) by [Jarred Olson](https://twitter.com/JarredOlson)
+* [Chrome Developer Tools: Raiding the Armory](https://speakerdeck.com/gregmalcolm/chrome-dev-tools-raiding-the-armory) by [Greg Malcolm](https://twitter.com/gregmalcolm)
 * [Climbing the (Elastic) Beanstalk](talks/Kris-Hatcher-Climbing-the-Elastic-Beanstalk.pdf) by [Kris Hatcher](https://twitter.com/hatcherk)
 * [Design Like Mythbusters](talks/Dennis-Dunn-Design-Like-Mythbusters.pdf) by [Dennis Dunn](https://github.com/dennisdunn)
 * [Ditching the Office](https://docs.google.com/presentation/d/1rDRHEg7icy2yei3oLKvCOL24bhIAjMqX1bn4xNPzUdU/edit?usp=sharing) by [Jon Kruger](http://jonkruger.com)
