@@ -16,6 +16,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 * [Ditching the Office](https://docs.google.com/presentation/d/1rDRHEg7icy2yei3oLKvCOL24bhIAjMqX1bn4xNPzUdU/edit?usp=sharing) by [Jon Kruger](http://jonkruger.com)
 * [Git Jungle Guided Tours](https://github.com/marcpeabody/git-jungle-guided-tours) by [Marc Peabody](https://twitter.com/MarcPeabody)
 * [Image Recognition with Convolutional Neural Networks](https://github.com/timle8n1/stirtrek2018) by [Tim LeMaster](https://twitter.com/timle8n1)
+* [Raising the Value of Your Unit Tests](https://speakerdeck.com/rightincode/raising-the-value-of-your-unit-tests) by [Richard Taylor](https://twitter.com/rightincode)
 * [Secure Applications, by Design](https://speakerdeck.com/craigstuntz/secure-applications-by-design-3) by [Craig Stuntz](https://twitter.com/craigstuntz)
 
 ## Stir Trek 2018 Reviews
